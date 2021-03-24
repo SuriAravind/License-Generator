@@ -1,0 +1,16 @@
+{
+  "keyPath": "/Users/apple/Documents/Archon3.1/archon-licence-new/KeyPair/privateKey.pk",
+  "licensedTo": "Platform 3 Solutions LLC",
+  "issueDate": "2021-02-01",
+  "releaseDate": "2021-02-02",
+  "validDate": "2025-02-10",
+  "dsCategory": [
+    "RDBMS,2022-01-01",
+    "Share Point,2022-01-01"
+  ],
+  "rdbmsCategory": [
+    "SQL,2022-01-01",
+    "ORACLE,2022-01-01",
+    "MYSQL,2022-01-01"
+  ]
+}

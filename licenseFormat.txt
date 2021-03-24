@@ -1,0 +1,29 @@
+[DATE (yyyy-mm-dd) ]
+
+Issue_Date=2021-02-01
+Release_Date=2021-02-02
+Valid_Date=2022-01-01
+
+
+
+[DATASOURCE_CATEGORY]
+
+RDBMS_WORKSPACE=ENABLED
+Share Point_WORKSPACE=ENABLED
+
+
+[DATABASE_SERVER]
+
+ORACLE_DB=ENABLED
+SQL_DB=ENABLED
+
+
+
+
+
+
+[PRIVATE_KEY_FILE]
+
+PATH=/Users/apple/Documents/Archon3.1/archon-licence-new/KeyPair/privateKey.pk
+
+LICENSED_TO=Platform 3 Solutions

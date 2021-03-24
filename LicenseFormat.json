@@ -1,0 +1,28 @@
+{
+  "keyPath": "/Users/apple/Documents/Archon3.1/archon-licence-new/KeyPair/privateKey.pk",
+  "licensedTo": "Platform 3 Solutions LLC",
+  "issueDate": "2021-03-20",
+  "releaseDate": "2021-03-20",
+  "validDate": "2020-06-20",
+  "dsCategory": [
+    "RDBMS,2020-06-20",
+    "Share Point,2020-06-20",
+    "File Share,2020-06-20",
+    "Lotus Notes,2020-06-20",
+    "InfoArchive,2020-06-20",
+    "VSAM,2020-06-20",
+    "Flat File,2020-06-20",
+    "Custom Solutions,2020-06-20"
+  ],
+  "rdbmsCategory": [
+    "SQL,2020-06-20",
+    "ORACLE,2020-06-20",
+    "MYSQL,2020-06-20",
+    "ORACLE_SERVICE,2020-06-20",
+    "SYBASE,2020-06-20",
+    "TERADATA,2020-06-20",
+    "POSTGRESQL,2020-06-20",
+    "DB2,2020-06-20",
+    "AS400,2020-06-20"
+  ]
+}
